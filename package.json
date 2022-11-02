@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/magicdecane.02-using-effects-fork-l9ztxdyt",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve iAl8q5LxUGZPdimL2tih --open"
+  }
+}
